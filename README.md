@@ -23,10 +23,6 @@ A curated list of awesome resources, projects, toolkits, and learning paths for 
 * [GDG India YouTube](https://www.youtube.com/@GDGIndia) - Official channel for Indian developer stories and tutorials.
 * [GDG India Instagram](https://www.instagram.com/gdgindia) - Stay updated with event highlights and community updates.
 
-## Official Design Assets
-* [GDG Brand Folder](https://developers.google.com/community/gdg/resources) - Official logos and color palettes.
-* [DevFest Branding](https://devfest.withgoogle.com/) - Themes and guidelines for DevFest events.
-
 ## Codelabs
 Hands-on tutorials created by the community.
 
