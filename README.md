@@ -40,6 +40,7 @@ Hands-on tutorials created by the community.
 | [Getting Started with Firebase Genkit in a Node.js](https://stepwik.com/labs/getting-started-with-genkit-in-a-node.js-x3rbZk) | Vrijraj Singh - GDE | In this comprehensive codelab, you'll learn how to implement Genkit functionality in an AI-powered application using a REST API built with Node.js and Express. |
 | [Vue 3 Meets Cloud Firestore: A Step-by-Step Guide](https://stepwik.com/labs/vue-3-cloud-firestore-DSlYeh) | Vrijraj Singh - GDE | This codelab will guide you through the process of integrating Vue 3 with Google Cloud Firestore, a scalable and flexible NoSQL cloud database. |
 | [Building a Weather Service REST API with Vertex AI and Firebase](https://stepwik.com/labs/building-a-weather-service-rest-api-with-vertex-ai-and-firebase-vIL1bo) | Vrijraj Singh - GDE | In this codelab, you'll build a REST API that combines the power of Vertex AI's function calling capabilities with Express.js to create an intelligent weather service. |
+| [Building a Hiring Agent with ADK and Gemini 3](https://stepwik.com/labs/building-a-hiring-agent-with-adk-gemini-3) | Jay Thakkar - GDE & Vijraj Singh - GDE | Build an AI-powered Hiring Agent using Google ADK and Gemini 3 to analyze resumes, assess skills, and match candidates to roles through intelligent, multi-agent collaboration. | 
 
 ## Tech Talks
 Recorded sessions and slide decks from community speakers.
